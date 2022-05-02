@@ -1,0 +1,76 @@
+header {
+  margin-bottom: 100px;
+}
+h1 {
+  padding-top: 20px;
+  text-align: center;
+}
+.myContainer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 600px;
+  border: 1px solid black;
+  background-color: black;
+  border-radius: 12px;
+}
+.show {
+  display: block;
+  margin: 40px auto;
+  background-color: white;
+  border-radius: 12px;
+
+  width: 80%;
+  height: 10%;
+  border: 1px solid goldenrod;
+}
+.rowA {
+  display: flex;
+}
+.row1 {
+  flex: 1;
+}
+
+.rowB {
+  display: flex;
+}
+.row2 {
+  flex: 1;
+}
+
+.rowC {
+  display: flex;
+}
+.row3 {
+  flex: 1;
+}
+
+.rowD {
+  display: flex;
+}
+.row4 {
+  flex: 1;
+}
+
+.rowE {
+  display: flex;
+}
+.row5 {
+  flex: 1;
+}
+
+button {
+  margin: 10px;
+  width: 80px;
+}
+
+.row6 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  color: red;
+}
