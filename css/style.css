@@ -25,38 +25,70 @@ h1 {
   height: 10%;
   border: 1px solid goldenrod;
 }
+
 .rowA {
   display: flex;
 }
-.row1 {
+.row7 {
+  flex: 1;
+}
+.row8 {
+  flex: 1;
+}
+.row9 {
+  flex: 1;
+}
+
+.rowDivide {
   flex: 1;
 }
 
 .rowB {
   display: flex;
 }
-.row2 {
+.row4 {
+  flex: 1;
+}
+
+.row5 {
+  flex: 1;
+}
+.row6 {
+  flex: 1;
+}
+.rowMulti {
   flex: 1;
 }
 
 .rowC {
   display: flex;
 }
+.row1 {
+  flex: 1;
+}
+.row2 {
+  flex: 1;
+}
 .row3 {
   flex: 1;
 }
-
-.rowD {
-  display: flex;
-}
-.row4 {
+.rowPlus {
   flex: 1;
 }
 
 .rowE {
   display: flex;
 }
-.row5 {
+.row0 {
+  flex: 1;
+}
+.rowFloat {
+  flex: 1;
+}
+.rowEqual {
+  flex: 1;
+}
+.rowMinus {
   flex: 1;
 }
 
@@ -66,7 +98,7 @@ button {
   border-radius: 12px;
 }
 
-.row6 {
+.clear {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -74,4 +106,7 @@ button {
 
 footer {
   color: red;
+}
+#total {
+  direction: rtl;
 }
